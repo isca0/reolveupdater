@@ -1,7 +1,7 @@
 UpdateResolv
 =========
 
-Simple role to update namserver on server with /etc/resolv.conf
+Simple role to update namservers on /etc/resolv.conf
 
 Requirements
 ------------
