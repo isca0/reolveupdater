@@ -12,6 +12,5 @@ galaxy_info:
   galaxy_tags:
     - dns
     - resolver
-    - resolv.conf
     - updater
     - resolv
