@@ -1,0 +1,7 @@
+---
+# defaults file for resolveupdater
+user: root
+
+nameservers:
+  - 8.8.8.8
+  - 8.8.4.4

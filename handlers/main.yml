@@ -1,0 +1,4 @@
+---
+# handlers file for resolveupdater---
+  - name: update-resolv
+    shell: resolvconf -u
